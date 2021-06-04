@@ -1,0 +1,10 @@
+[user]
+	email = smohamed.abdelrahman@gmail.com
+	name = MKAbdElrahman
+[color]
+	ui = true
+[core]
+	autocrlf = input
+[alias]
+	s = status -s
+	lg = log --oneline -all --graph --decorate
