@@ -1,2 +1,5 @@
 Restart Wifi 
 sudo systemctl restart network-manager.service
+
+empty  trash
+sudo rm -rf ~/.local/share/Trash/*
